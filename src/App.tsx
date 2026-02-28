@@ -10,7 +10,7 @@ function App() {
           <div className="golden-cross">
             <FaCross size={48} />
           </div>
-          <h1>Joseph</h1>
+          <h1>Joseph Anderson</h1>
           <p className="subtitle">Testemunho de Vida</p>
         </header>
 
