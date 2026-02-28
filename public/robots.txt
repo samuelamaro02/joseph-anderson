@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://josephdaparaiba.com.br/sitemap.xml
+Sitemap: https://joseph-paraiba.vercel.app/sitemap.xml
